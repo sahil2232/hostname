@@ -1,6 +1,8 @@
 # hostname
 Hostname of given IP addresses in the same network
+
 Usage:
+
 chmod 777 nmap.sh
 
 ./nmap 172.20.52. 3 30
